@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a457c0a-cceb-43b1-a4d8-e4692b9b8dd6" name="Changes" comment="Monkey 0.1.1">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie13.java" afterDir="false" />
+    <list default="true" id="6a457c0a-cceb-43b1-a4d8-e4692b9b8dd6" name="Changes" comment="Monkey 0.1.4">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Compyter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Cow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StringName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/masiv.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,9 +59,16 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Zadanie13">
-    <configuration name="YslownueOperatory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="YslownueOperatory" />
+  <component name="RunManager" selected="Application.Class">
+    <configuration name="Class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class" />
+      <module name="Yanina" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringName" />
       <module name="Yanina" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -69,22 +81,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zadanie12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Zadanie12" />
+    <configuration name="Zadanie3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zadanie3" />
       <module name="Yanina" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zadanie13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Zadanie13" />
-      <module name="Yanina" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="cycle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cycle" />
+    <configuration name="masiv" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="masiv" />
       <module name="Yanina" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,11 +97,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Zadanie13" />
-        <item itemvalue="Application.Zadanie12" />
+        <item itemvalue="Application.Class" />
+        <item itemvalue="Application.StringName" />
         <item itemvalue="Application.Zadanie1" />
-        <item itemvalue="Application.cycle" />
-        <item itemvalue="Application.YslownueOperatory" />
+        <item itemvalue="Application.masiv" />
+        <item itemvalue="Application.Zadanie3" />
       </list>
     </recent_temporary>
   </component>
@@ -123,7 +128,28 @@
       <option name="project" value="LOCAL" />
       <updated>1643893055628</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Monkey 0.1.2">
+      <created>1643900947233</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1643900947233</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Monkey 0.1.3">
+      <created>1643967726460</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1643967726460</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Monkey 0.1.4">
+      <created>1644145222524</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1644145222525</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -140,6 +166,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Monkey 0.1" />
     <MESSAGE value="Monkey 0.1.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Monkey 0.1.1" />
+    <MESSAGE value="Monkey 0.1.2" />
+    <MESSAGE value="Monkey 0.1.3" />
+    <MESSAGE value="Monkey 0.1.4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Monkey 0.1.4" />
   </component>
 </project>
